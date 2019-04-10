@@ -3,10 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="ytbid.fubid.info" version="1.0.0">
     
-    <name>永泰利YTBID競拍</name>
-    <description>精品交流.循環經濟分享電商平台 全球互聯網+分享經濟的O2O跨境電商 https://ep.fubid.net/</description>
-    <description> http://blog.pulipuli.info/</description>
-    <author href="https://ep.fubid.net/" email="service@fubid.net">布丁布丁吃布丁</author>
+    <name>YTBID永泰利竞拍</name>
+    <description>品交流.循环经济分享电商平台 全球互联网+分享经济的O2O跨境电商 https://ep.fubid.net/</description>
+    <author href="https://ep.fubid.net/" email="service@fubid.net">永泰利国际</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
