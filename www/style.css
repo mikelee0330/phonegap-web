@@ -12,6 +12,7 @@ body {
 body .bg-logo {
     position: absolute;
     left: 50%;
+    top: 50%;
     transform: translate(-50%, -50%);
 }
 body .bg-logo img {
@@ -100,7 +101,7 @@ h1.title {
 
 #content .content-container {
     margin: 20px;
-    margin-top: 260px;
+    /*margin-top: 260px;*/
     padding: 25px;
     /*background: white;*/
     text-align: center;
